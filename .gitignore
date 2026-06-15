@@ -1,0 +1,12 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore local environment files
+.env
